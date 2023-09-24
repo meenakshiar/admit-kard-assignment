@@ -33,7 +33,7 @@ npm run start
 # Screenshots
 
 ## Login Page
-[![Screenshot-98.png](https://i.postimg.cc/d01QksYb/Screenshot-98.png)](https://postimg.cc/K16hC4f)
+[![Screenshot-98.png](https://i.postimg.cc/5NxN2jPN/mobile-16.png)]
 
 ## OTP page
 [![Screenshot-97.png](https://i.postimg.cc/SyG0MF1s/Screenshot-97.png)](https://i.postimg.cc/SyG0F1s)
