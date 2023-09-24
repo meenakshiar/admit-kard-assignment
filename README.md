@@ -36,7 +36,7 @@ npm run start
 [![Screenshot-98.png](https://i.postimg.cc/5NxN2jPN/mobile-16.png)]
 
 ## OTP page
-[![Screenshot-97.png](https://i.postimg.cc/SyG0MF1s/Screenshot-97.png)](https://i.postimg.cc/SyG0F1s)
+[![Screenshot-97.png](https://i.postimg.cc/BnKyWBx8/mobile-18.png)]
 
 ## Success page
-[![Screenshot-106.png](https://i.postimg.cc/L6c7qfYd/Screenshot-106.png)](https://postimg.cc/3dZkF9)
+[![Screenshot-106.png](https://i.postimg.cc/442FmSP7/mobile-15.png)]
