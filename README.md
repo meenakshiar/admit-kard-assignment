@@ -1,9 +1,5 @@
 # AdmitKard Assignment - OTP verification
 
-## Demo :movie_camera:
-
-- Deployed Link: [https://admit-kard-assignment.vercel.app/]
-
 ## Features :sparkles:
 
 1. Any user can be registered using a Mobile number.
